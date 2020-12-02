@@ -16,3 +16,4 @@ Assignment2
 - The function iterates through those edges and finds the edge with the smallest weight to the source vertex and stores that in the vertex list shortestPath, which is defined
 - in the vertex definition
 - ShortestPath then returns the final vertex which and in the main program we iterate through and print the vertexes in that vertex's shortestPath list
+-*currently, when the code runs it will tell you the distance from the starting city, to the ending city with the correct distance traveled, but will not correctly factor in the attractions*
